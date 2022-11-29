@@ -1,0 +1,7 @@
+#2557번 (11월 30일)
+print("Hello World!");
+
+#1000번(11월 30일)
+a, b = map(int, input().split())
+print(a+b)
+
